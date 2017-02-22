@@ -1,4 +1,4 @@
-package by.epam.fh.tsk1;
+package by.epam.fh.zzzz;
 
 import java.io.File;
 import java.io.FileNotFoundException;

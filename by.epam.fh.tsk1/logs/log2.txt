@@ -1,0 +1,65 @@
+2017-02-21 17:34:46 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@e720b71
+2017-02-21 17:34:46 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:34:46 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:34:46 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:34:46 [main] INFO  Main - 1111
+2017-02-21 17:34:46 [main] INFO  Main - 222222222
+2017-02-21 17:34:46 [main] INFO  Main - 3333333333
+2017-02-21 17:34:46 [main] ERROR Main -  Errror
+2017-02-21 17:34:46 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@e720b71
+2017-02-21 17:34:46 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:34:46 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:34:46 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:34:46 [main] INFO  Main - 1111
+2017-02-21 17:34:46 [main] INFO  Main - 222222222
+2017-02-21 17:34:46 [main] INFO  Main - 3333333333
+2017-02-21 17:34:46 [main] ERROR Main -  Errror
+2017-02-21 17:37:22 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@459e9125
+2017-02-21 17:37:22 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:37:22 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:37:22 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:37:22 [main] INFO  Main - 1111
+2017-02-21 17:37:22 [main] INFO  Main - 222222222
+2017-02-21 17:37:22 [main] INFO  Main - 3333333333
+2017-02-21 17:37:22 [main] ERROR Main -  Errror
+2017-02-21 17:38:04 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@e720b71
+2017-02-21 17:38:04 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:38:04 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:38:04 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:38:04 [main] INFO  Main - 1111
+2017-02-21 17:38:04 [main] INFO  Main - 222222222
+2017-02-21 17:38:04 [main] INFO  Main - 3333333333
+2017-02-21 17:38:04 [main] ERROR Main -  Errror
+2017-02-21 17:38:34 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@e720b71
+2017-02-21 17:38:34 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:38:34 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:38:34 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:38:34 [main] INFO  Main - 1111
+2017-02-21 17:38:34 [main] INFO  Main - 222222222
+2017-02-21 17:38:34 [main] INFO  Main - 3333333333
+2017-02-21 17:38:34 [main] ERROR Main -  Errror
+2017-02-21 17:52:05 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@41d477ed
+2017-02-21 17:52:05 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:52:05 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:52:05 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:52:05 [main] INFO  Main - 1111
+2017-02-21 17:52:05 [main] INFO  Main - 222222222
+2017-02-21 17:52:05 [main] INFO  Main - 3333333333
+2017-02-21 17:52:05 [main] ERROR Main -  Errror
+2017-02-21 17:54:05 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@e720b71
+2017-02-21 17:54:05 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:54:05 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:54:05 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:54:05 [main] INFO  Main - 1111
+2017-02-21 17:54:05 [main] INFO  Main - 222222222
+2017-02-21 17:54:05 [main] INFO  Main - 3333333333
+2017-02-21 17:54:05 [main] ERROR Main -  Errror
+2017-02-21 17:54:58 [main] INFO  Main - 1 argument
+2017-02-21 17:54:58 [main] INFO  Main - org.apache.logging.log4j.core.LoggerContext@42eca56e
+2017-02-21 17:54:58 [main] INFO  Main - org.apache.logging.log4j.core.Logger
+2017-02-21 17:54:58 [main] DEBUG Main - ** Debug 111
+2017-02-21 17:54:58 [main] WARN  Main -  --- Warning ----------
+2017-02-21 17:54:58 [main] INFO  Main - 1111
+2017-02-21 17:54:58 [main] INFO  Main - 222222222
+2017-02-21 17:54:58 [main] INFO  Main - 3333333333
+2017-02-21 17:54:58 [main] ERROR Main -  Error

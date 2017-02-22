@@ -1,0 +1,6 @@
+2017-02-14 15:23:05
+Fiodar_Hulin
+Circle radius: 10.0
+Area: 314.1592653589793
+Perimeter: 62.83185307179586
+System.currentTimeMillis: 1487074985571

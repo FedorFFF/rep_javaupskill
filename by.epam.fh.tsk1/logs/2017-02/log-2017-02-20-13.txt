@@ -1,0 +1,5 @@
+2017-02-20 13:52:34 [main] WARN  Main -  --- Warning ----------
+2017-02-20 13:52:34 [main] INFO  Main - 1111
+2017-02-20 13:52:34 [main] INFO  Main - 222222222
+2017-02-20 13:52:34 [main] INFO  Main - 3333333333
+2017-02-20 13:52:34 [main] ERROR Main -  Errror
